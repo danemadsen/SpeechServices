@@ -6,7 +6,6 @@
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:label="@string/app_name"
         android:supportsRtl="true"
-        android:theme="@style/Theme.SpeechServices"
         tools:ignore="MissingApplicationIcon">
         <service
             android:name=".tts.TextToSpeechServiceImpl"
