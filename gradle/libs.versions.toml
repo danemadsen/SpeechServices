@@ -12,7 +12,7 @@ lifecycleRuntimeKtx = "2.10.0"
 media3CommonKtx = "1.10.1"
 onnxruntimeAndroid = "1.26.0"
 openNlp = "2.5.7"
-slf4j = "2.0.17"
+slf4j = "2.0.18"
 
 [libraries]
 androidx-activity-compose = { group = "androidx.activity", name = "activity-compose", version.ref = "activityCompose" }
