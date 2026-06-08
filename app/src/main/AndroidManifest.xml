@@ -40,7 +40,7 @@
             android:name=".TtsSettingsActivity"
             android:exported="true"
             android:label="@string/app_name"
-            android:theme="@style/Theme.SpeechServices" />
+            android:theme="@style/Theme.SpeechServices.Settings" />
     </application>
 
 </manifest>
