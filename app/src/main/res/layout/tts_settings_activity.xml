@@ -81,7 +81,7 @@
                 android:paddingStart="@dimen/settings_preference_content_padding_horizontal"
                 android:paddingTop="16dp"
                 android:paddingEnd="@dimen/settings_preference_content_padding_horizontal"
-                android:paddingBottom="16dp">
+                android:paddingBottom="32dp">
 
                 <TextView
                     android:layout_width="match_parent"
