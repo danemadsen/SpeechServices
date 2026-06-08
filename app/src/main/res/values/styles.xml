@@ -7,6 +7,7 @@
         <item name="android:navigationBarColor">@android:color/transparent</item>
         <item name="android:windowLightStatusBar">true</item>
         <item name="android:windowLightNavigationBar">true</item>
+        <item name="android:colorAccent">@color/settings_accent_color</item>
         <item name="android:listPreferredItemHeight">72dp</item>
     </style>
 
@@ -14,7 +15,7 @@
         parent="@android:style/TextAppearance.Material.Body2">
         <item name="android:letterSpacing">0.072727273</item>
         <item name="android:textAllCaps">true</item>
-        <item name="android:textColor">?android:attr/colorAccent</item>
+        <item name="android:textColor">@color/settings_accent_color</item>
         <item name="android:textSize">11sp</item>
     </style>
 
