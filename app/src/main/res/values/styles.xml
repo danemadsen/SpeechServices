@@ -11,24 +11,4 @@
         <item name="android:listPreferredItemHeight">72dp</item>
     </style>
 
-    <style name="TextAppearance.SpeechServices.Settings.Category"
-        parent="@android:style/TextAppearance.Material.Body2">
-        <item name="android:letterSpacing">0.072727273</item>
-        <item name="android:textAllCaps">true</item>
-        <item name="android:textColor">@color/settings_accent_color</item>
-        <item name="android:textSize">11sp</item>
-    </style>
-
-    <style name="TextAppearance.SpeechServices.Settings.Title"
-        parent="@android:style/TextAppearance.Material.Subhead">
-        <item name="android:fontFamily">sans-serif-medium</item>
-        <item name="android:textColor">?android:attr/textColorPrimary</item>
-        <item name="android:textSize">16sp</item>
-    </style>
-
-    <style name="TextAppearance.SpeechServices.Settings.Summary"
-        parent="@android:style/TextAppearance.Material.Body1">
-        <item name="android:textColor">?android:attr/textColorSecondary</item>
-        <item name="android:textSize">14sp</item>
-    </style>
 </resources>
